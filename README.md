@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a>
-  <img align="right" alt="vini-gif"  height="130" widht="130" src="https://cdn.discordapp.com/attachments/993651653871927328/1047882437637705818/touka-2.gif">
+  <img align="right" alt="vini-gif"  height="#" widht="#" src="https://cdn.discordapp.com/attachments/993651653871927328/1047882437637705818/touka-2.gif">
   </a>
  
  ##
